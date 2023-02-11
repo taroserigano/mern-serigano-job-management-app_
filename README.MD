@@ -5,7 +5,7 @@ MERN stack app that lets you manage and organize job interview process.
 
 ### Tech: React, useReducer, Context API, Node & Express, MongoDB, React-Router 6, Axios, Async/Await, JWT, BCrypt etc.
 
-## Try the live demo: https://taro-job-center.herokuapp.com/
+## Try the live demo: https://mern-serigano-job-center.onrender.com/landing
 
 
 ![alt text](https://github.com/taroserigano/mern-serigano-job-management-app_/blob/main/pics/1.jpg)
