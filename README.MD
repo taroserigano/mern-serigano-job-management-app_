@@ -20,4 +20,4 @@ Register Once and your date will get stored and persisted in our MongoDB server 
 
 ![alt text](https://github.com/taroserigano/mern-serigano-job-management-app_/blob/main/pics/5.jpg)
 
-perform node populate to create mock data
+
