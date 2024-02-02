@@ -5,7 +5,7 @@ import { useAppContext } from '../context/appContext';
 import { useNavigate } from 'react-router-dom';
 const initialState = {
   name: '',
-  email: 'kennyhoffman1970@gmail.com',
+  email: 't7seri7@gmail.com',
   password: 'test1234',
   isMember: true,
 };
@@ -58,7 +58,7 @@ const Register = () => {
     <Wrapper className='full-page'>
       <form className='form' onSubmit={onSubmit}>
         <Logo />
-        <p>Type <strong style={{color: "blue"}}> test123444</strong> for password</p>
+        <p>Type <strong style={{color: "blue"}}> test1234</strong> for password</p>
         <h3>{values.isMember ? 'Login' : 'Register'}</h3>
         {showAlert && <Alert />}
         {/* name input */}
